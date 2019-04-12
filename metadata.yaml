@@ -1,10 +1,13 @@
 _repo: The-Courtship-of-Miles-Standish-From-Collection-of-Henry-W-Longfellow_59216
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Russell, Walter
     gutenberg_agent_id: '50345'
     url: http://www.gutenberg.org/2009/agents/50345
+covers:
+- cover_type: archival
+  image_path: 59216-h/images/cover.jpg
 creator:
   author:
     agent_name: Longfellow, Henry Wadsworth
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/16
     wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59216#The-Courtship-of-Miles-Standish-From-Collection-of-Henry-W-Longfellow
 gutenberg_issued: '2019-04-06'
 gutenberg_type: Text
 identifiers:
